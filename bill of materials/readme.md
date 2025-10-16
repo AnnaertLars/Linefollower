@@ -11,4 +11,5 @@
 |6| Microcontroller |ESP32| Nieuw |€7,50|1|€7,50|
 |7| Batterij houder|4xAA| Nieuw |€1,40|1|€1,40|
 |8|Batterijen|4xAA| recup |€0|1|€0|
+|9|Experiment PCB |9cm*15cm| Nieuw|€2,50|1|€2,50|
 
