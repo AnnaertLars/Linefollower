@@ -2,7 +2,7 @@
 
 BluetoothSerial BTSerial;     // Bluetooth-instantie
 
-// GPIO's voor de QTR-8A (maar je gebruikt er 7)
+// GPIO's voor de QTR-8A (ik gebruik er 6)
 const int sensorPins[6] = {36, 39, 34, 35, 32, 33};
 int sensorValues[6];          // Opslag voor sensorwaarden
 
