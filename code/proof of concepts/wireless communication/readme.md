@@ -5,7 +5,6 @@ minimale hard- en software waarmee aangetoond wordt dat duplex kan gecommuniceer
 ### gebruiksaanwijzing
 Benodigdheden : ESP32, USB-kabel om de ESP32 aan te sluiten op je computer, PC met Arduino IDE geïnstalleerd.
 
-- Verbind de ESP32 met je computer via de USB-kabel. Zorg ervoor dat bovenaan de juise COM-poort is geselecteerd in de arduino IDE. Kies hierbij ook het juiste board (ESP32 Dev Module)
 - Verbind de ESP32 met je computer via de USB-kabel. Zorg ervoor dat de juiste COM-poort is geselecteerd in de Arduino IDE: Ga naar Hulpmiddelen (Tools) → Poort (Port) → Selecteer de poort waarop je ESP32 is aangesloten. Kies in Hulpmiddelen ook het juiste board (bijvoorbeeld: ESP32 Dev Module).
 
 -Kopieer de bovenstaande code in de Arduino IDE. Controleer of de bibliotheek "BluetoothSerial.h" is geïnstalleerd: Ga naar Schets (Sketch) → Bibliotheek gebruiken (Include Library) → Bibliotheken beheren (Manage Libraries). Zoek naar "BluetoothSerial" en installeer deze indien nodig. Upload de code naar de ESP32: Klik op de Upload-knop in de Arduino IDE. Wacht tot de upload is voltooid.
