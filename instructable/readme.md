@@ -10,11 +10,14 @@ Bestel alle componenten uit de bill of materials : https://github.com/AnnaertLar
   
 - Neem de sensor en soldeer deze aan de PCB ondersteboven waardoor hij vast blijft zitten.
 
-(foto)
+![IMG_5916](https://github.com/user-attachments/assets/58cda5ae-eb91-4dd7-be83-8734283c042e)
+![IMG_5917](https://github.com/user-attachments/assets/8912f538-9ea0-45dc-811e-ea858340fc5b)
 
-- 3D-print de houder voor de motor (link). Plaats de motor in de houder en plak hem vast (met TEC7) op een afstand van 10cm vanaf de rand van de sensor.
 
-(foto's)
+- 3D-print de houder voor de motor (https://github.com/AnnaertLars/Linefollower/tree/main/technische%20tekeningen/mechanisch). Plaats de motor in de houder en plak hem vast (met TEC7) op een afstand van 10cm vanaf de rand van de sensor.
+
+![IMG_5918](https://github.com/user-attachments/assets/3d692f0e-f3df-4505-9666-01d512926a62)
+
 
 - Nu is het tijd om de rest te solderen :
       - Draadjes aan de motoren.
