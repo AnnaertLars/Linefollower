@@ -8,4 +8,4 @@ De arduino code staat in het .ino bestand.
 Hierbij maken we gebruik van de QTRSensors.h library. Deze maakt het mogelijk om de sensor evenvoudig te configureren en de waardes uit te lezen. Vervolgens worden deze 6 sensorwaardes naast elkaar geprint op de seriële monitor. 
 
 # Elektrisch schema:
-De aansluitng van de sensor staat in de pdf bovenaan.
+De aansluitng van de sensor staat in het bestand .png bovenaan.
