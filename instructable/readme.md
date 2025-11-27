@@ -3,7 +3,7 @@
 Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend van de bill of materials en gebruik makend van de technische tekeningen de robot kan nabouwen. Ook de nodige stappen om de microcontroller te compileren en te uploaden staan beschreven.  
 
 ### stap 1 : bestellen
-bestel alle componenten uit de bill of materials : https://github.com/AnnaertLars/Linefollower/tree/main/bill%20of%20materials
+Bestel alle componenten uit de bill of materials : https://github.com/AnnaertLars/Linefollower/tree/main/bill%20of%20materials
 
 ### stap 2 : monteren
 - Wat hebben we nodig : sensor, PCB, soldeerbout + tin, meetlat, motoren + motor houder & TEC7
@@ -20,6 +20,14 @@ bestel alle componenten uit de bill of materials : https://github.com/AnnaertLar
       - Draadjes aan de motoren.
       - Draadjes aan de Deans T batterij connector.
       - Draadjes de weerstanden (kijk elektronisch schema).
+
+### stap 3 : aansluiten
+
+Verbind alle componenten zoals op het elektronisch schema wordt weergegeven : https://github.com/AnnaertLars/Linefollower/blob/main/technische%20tekeningen/elektronisch/Elektrisch%20schema.png
+
+### stap 4 : programma
+
+Verbind de arduino met de computer en upload het programma in de arduino : https://github.com/AnnaertLars/Linefollower/tree/main/code/finaal/Finaal
 
 
 
