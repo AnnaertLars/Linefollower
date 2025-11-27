@@ -22,4 +22,4 @@ In de setup worden de pinnen die verbonden zijn met de H-brug als OUTPUT ingeste
 Daarnaast zijn er nog drie extra functies geïmplementeerd. Via de spin_and_wait-functie kan overzichtelijk een snelheid aan beide motoren worden toegekend. In deze functies wordt ook bepaald dat de draairichting moet omkeren wanneer een negatieve snelheid wordt ingegeven, en wordt de ingestelde snelheid naar de seriële monitor geschreven
 
 ## Elektronisch schema:
-De aansluiting van de H-brug & motoren staat in het bestand .PDF
+De aansluiting van de H-brug & motoren staat in het bestand .PNG
