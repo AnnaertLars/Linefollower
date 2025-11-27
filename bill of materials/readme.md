@@ -14,5 +14,5 @@
 |10| HC-05|Bluetooth|Nieuw|€4,50|1|€4,50|
 |11| Wielen|Lego wielen|recup|€0|1|€0|
 |12| Batterijoplader|LiitoKala Lii-L2 3,7V 18650|recup|€0|1|€0|
-
+|13| Lijm |TEC7|recup|€0|1|€0|
 
